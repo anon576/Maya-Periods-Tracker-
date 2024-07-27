@@ -40,6 +40,14 @@ Maya is a period tracking app developed with Flutter, designed to help users mon
 
 Ensure you have Flutter and Dart installed on your machine. You can configure the app by updating the settings in `lib/config.dart` as needed. 
 
+## Backend
+
+The backend for Maya is developed using [Backend Framework/Technology] (replace with the actual technology used). It handles data storage, user authentication, and communication with the Flutter frontend.
+
+### Repository
+
+- **GitHub Repository**: [Maya Flutter App Backend](https://github.com/anon576/Maya-Flutter-App-backend)
+
 ## Usage
 
 - **Track Periods**: Add new entries to track your menstrual periods.
